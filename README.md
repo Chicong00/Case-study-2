@@ -1,2 +1,2 @@
-# Case-study-2
+# 🍕 Case-study-2: Pizza Runner
 [*In Progress*]
